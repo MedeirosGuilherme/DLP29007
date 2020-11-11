@@ -1,0 +1,17 @@
+
+Lista 1 - DLP
+
+
+2a) report_path -from {Add*|data* Add*|cin*} -to {Add*|cout* Add*|combout*} -npaths 20 -panel_name {Report Path}
+2b) report_path -from {Add*|data* Add*|cin*} -to {Add*|cout* Add*|combout*} -npaths 20 -panel_name {Report Path}
+2c) report_path -from {Add*|data* Add*|cin*} -to {Add*|cout* Add*|combout*} -npaths 20 -panel_name {Report Path}
+2d) ------
+2e) report_path -from {Add*|data* Add*|cin*} -to {Add*|cout* Add*|combout*} -npaths 20 -panel_name {Report Path}
+
+
+3a) 1.932 ns	16 LE
+3b) 1.826 ns	15 LE
+3c) 1.404 ns	08 LE
+3d) 	0 ns	00 LE
+3e) 1.800 ns	14 LE 
+
